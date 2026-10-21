@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables and API keys
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Audio files
+*.mp3
+*.wav
+*.m4a
+
+# Model files
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
